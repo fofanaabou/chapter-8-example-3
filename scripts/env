@@ -1,0 +1,2 @@
+CONTAINER_REGISTRY=fluxtubecontainerrepository.azurecr.io
+VERSION=1
